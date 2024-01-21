@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+
+.meme{
+    margin-top: 25px;
+    margin-left: 25%;
+    width: 50%;
+    height: 50%;
+    align-self: center;
+    align-items: center;
+    text-align: center;
+}
+
+.image{
+    border: 4px solid whitesmoke;
+}
+
+h1{
+    color: whitesmoke;
+}
+
+p{
+    color:whitesmoke;
+}
